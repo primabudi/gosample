@@ -40,3 +40,7 @@
 [[constraint]]
   branch = "v1.1"
   name = "gopkg.in/tokopedia/logging.v1"
+
+[[override]]
+  name = "github.com/apache/thrift"
+  version = "0.10.0"
